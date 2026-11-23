@@ -1,7 +1,7 @@
 Package: SpatialData.data
 Title: SpatialData datasets
 Depends: R (>= 4.6.0)
-Version: 1.0.0
+Version: 1.1.0
 Description: 
     A companion package to access scverse-curated example SpatialData stores.
     The datasets span spatial omics technologies such as Visium, Visium HD, 
